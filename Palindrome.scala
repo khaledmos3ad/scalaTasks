@@ -1,6 +1,6 @@
 object Palindrome{
    def main(args: Array[String]) {
-       println("Palindrome Results : "))
+       println("Palindrome Results : ")
        println("noon is  :"+ isPalindrome("noon"))
        println("apple is  :"+ isPalindrome("apple"))
        println("Madam  :"+ isPalindrome("madam"))
