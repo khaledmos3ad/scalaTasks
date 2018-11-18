@@ -1,6 +1,6 @@
 object FacturialSolution{
    def main(args: Array[String]) {
-       println(factorial(5))
+       println("Factorial of 5 is "+factorial(5))
    }
    
    def factorial(n: Int): Int = n match {
